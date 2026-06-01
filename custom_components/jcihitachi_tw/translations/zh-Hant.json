@@ -80,7 +80,7 @@
                 "name": "清潔濾網通知"
             },
             "mold_prev_switch": {
-                "name": "防黴"
+                "name": "防霉"
             },
             "wind_swingable_switch": {
                 "name": "風向擺動"
@@ -109,7 +109,7 @@
                             "continuous": "連續",
                             "clothes_dry": "衣物乾燥",
                             "air_purify": "空氣淨化",
-                            "mold_prev": "防黴",
+                            "mold_prev": "防霉",
                             "low_humidity": "低濕度",
                             "eco_comfort": "舒適節能"
                         }
